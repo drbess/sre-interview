@@ -3,7 +3,7 @@ The purpose of this interview is to test your abilities to demonstrate that you 
 
 ## Design questions
 * Design a URL shortening service
-* Design a web-crawlers
+* Design a web-crawler
 * Design a photo sharing service (e.g. Google Photos)
 * Design a microblogging service (e.g. Twitter)
 * Design the LinkedIn profile page
